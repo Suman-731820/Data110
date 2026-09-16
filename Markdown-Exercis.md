@@ -6,7 +6,7 @@
 ## Physics Problem Solving
 Physics uses mathematics and formulas to solve problems about motion,force,energy, and many other topics.
 I enjoy solving numerical problems because they help me understand how physics works in real life.
-###Steps for Solving a Physics Problem
+### Steps for Solving a Physics Problem
 - Read the question carefully
 - Write down the given information
 - Identify the formula
@@ -31,6 +31,8 @@ I enjoy solving numerical problems because they help me understand how physics w
 
 [Physics Classroom](https://www.physicsclassroom.com/)
 
+## Images
+![Numericals in physics](https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=600)
 ##### Physics Example
 
 A car travels 100 meters in 20 seconds. Its speed can be calculated using:
